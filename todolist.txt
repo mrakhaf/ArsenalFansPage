@@ -1,0 +1,4 @@
+Todolist:
+1. hmburger nav ganti wrna
+2. footer warna dan flex
+3. background banner
